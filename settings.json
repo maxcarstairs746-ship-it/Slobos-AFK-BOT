@@ -8,7 +8,7 @@
   "server": {
     "ip": "typicasmp.falixsrv.me",
     "port": 27668,
-    "version": "1.21.10"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
