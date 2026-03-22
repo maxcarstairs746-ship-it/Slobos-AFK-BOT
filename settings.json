@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "typicasmp.falix.dev",
-    "port": 22990,
+    "ip": "typicasmp.falixsrv.me",
+    "port": 27668,
     "version": "1.21.10"
   },
   "position": {
