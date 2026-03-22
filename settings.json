@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "typicasmp.falix.dev",
+    "port": 22990,
+    "version": "1.21.10"
   },
   "position": {
     "enabled": true,
